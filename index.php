@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "i want to masturbate"
+        echo "internal bloodthirst"
         ?>
     </body>
 </html>
